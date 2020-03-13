@@ -1,0 +1,7 @@
+show run | include hostname
+show vrf
+show ip interface brief
+show version | include uptime
+show ip route | begin Gate
+show adjacency
+show ip cef
